@@ -73,14 +73,15 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 
 | S No | Project Name | Level | Repository | Live Demo |
 |------|-------------|-------|------------|------------|
-| 01 | ARIES – Autonomous Recruitment Agent | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
-| 02 | Medical Diagnosis LLM Agent | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
-| 03 | Resume Genie – AI Career Suite | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
-| 04 | Neural-Semantic Job Matching Protocol | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
-| 05 | Text-to-SQL RAG Chatbot | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
-| 06 | Air India RAG Chatbot | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
-| 07 | AI Job Analyzer (ELK + Kubernetes) | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
-| 08 | YouTube SEO AI (Jenkins + ArgoCD) | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 01 | Automated Candidate Interview & Evaluation System | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 02 | Medical Diagnosis App | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 03 | Resume Genie: An AI-Powered Career Suite | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 04 | Neural-Semantic Matching Protocol for Real-Time Job Interoperability | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 05 | AI Powered Text to SQL RAG Chatbot | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 06 | Air India RAG Chatbot Development | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 07 | AI Powered Job Analyzer using Filebeat with ELK Stack and Kubernetes | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 08 | YouTube SEO Insights Generator using Jenkins, ArgoCD & Kubernetes | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+
 
 
 ---
