@@ -18,13 +18,12 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 
 ---
 
-# 📊 Data Science Projects
+# 📦 Data Science Projects
 
-| S No | Project Name                    | Level        | Repository | Live Demo |
-|------|--------------------------------|-------------|------------|------------|
-| 01   | Exploratory Data Analysis      | Beginner     | [GitHub](#) |  |
-| 02   | Sales Forecasting Analysis     | Intermediate | [GitHub](#) |  |
-| 03   | Customer Segmentation          | Intermediate | [GitHub](#) |  |
+| S No | Project Name | Level | Repository | Live Demo |
+|------|-------------|-------|------------|------------|
+| 01 | NexusViewPro – Jupyter Web Viewer Package | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+
 
 ---
 
@@ -53,21 +52,36 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 
 # 🧠 Deep Learning Projects
 
-| S No | Project Name                          | Level        | Repository | Live Demo |
-|------|--------------------------------------|-------------|------------|------------|
-| 01   | Respire: Chest Disease Detection     | Advanced     | [GitHub](#) |  |
-| 02   | Image Classification (CNN)           | Intermediate | [GitHub](#) |  |
+| S No | Project Name | Level | Repository | Live Demo |
+|------|-------------|-------|------------|------------|
+| 01 | Poultry Disease Identification | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 02 | Solar Panel Defect Classification | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 03 | Elephant Species Classification (Transfer Learning) | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 04 | AI Heart Murmur Detection System | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+
 
 ---
 
+# 📝 NLP Projects
+
+| S No | Project Name | Level | Repository | Live Demo |
+|------|-------------|-------|------------|------------|
+| 01 | Text Summarization (Hugging Face + Pegasus) | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+
+
 # 💬 Generative AI Projects
 
-| S No | Project Name                          | Level        | Repository | Live Demo |
-|------|--------------------------------------|-------------|------------|------------|
-| 01   | Chatbot using Gemini Pro             | Intermediate | [GitHub](#) |  |
-| 02   | Chatbot using OpenAI                 | Intermediate | [GitHub](#) |  |
-| 03   | Conversational AI Assistant          | Advanced     | [GitHub](#) |  |
-| 04   | Doc-Genius (Document AI System)      | Advanced     | [GitHub](#) |  |
+| S No | Project Name | Level | Repository | Live Demo |
+|------|-------------|-------|------------|------------|
+| 01 | ARIES – Autonomous Recruitment Agent | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 02 | Medical Diagnosis LLM Agent | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 03 | Resume Genie – AI Career Suite | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 04 | Neural-Semantic Job Matching Protocol | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 05 | Text-to-SQL RAG Chatbot | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 06 | Air India RAG Chatbot | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 07 | AI Job Analyzer (ELK + Kubernetes) | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 08 | YouTube SEO AI (Jenkins + ArgoCD) | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+
 
 ---
 
