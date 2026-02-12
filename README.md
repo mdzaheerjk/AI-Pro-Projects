@@ -22,7 +22,7 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 
 | S No | Project Name | Level | Repository | Live Demo |
 |------|-------------|-------|------------|------------|
-| 01 | NexusViewPro – Jupyter Web Viewer Package | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 01 | NexusViewPro – Jupyter Web Viewer Package | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/End-to-End-NexusView-Package.git) |  |
 
 
 ---
