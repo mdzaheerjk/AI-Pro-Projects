@@ -66,7 +66,7 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 
 | S No | Project Name | Level | Repository | Live Demo |
 |------|-------------|-------|------------|------------|
-| 01 | Text Summarization (Hugging Face + Pegasus) | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 01 | Text Summarization (Hugging Face + Pegasus) | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/End-to-End-NLP-Text-Summarization-with-Hugging-Face-Transformers.git) |  |
 
 
 # 💬 Generative AI Projects
