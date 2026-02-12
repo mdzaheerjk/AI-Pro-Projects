@@ -31,21 +31,21 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 
 | S No | Project Name | Level | Repository | Live Demo |
 |------|-------------|-------|------------|------------|
-| 01 | MLOps Jenkins Shared Library CI/CD | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
-| 02 | Kubernetes Penetration Testing and Benchmarking with KubeHunter & KubeBench | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
-| 03 | Network Security MLOps System | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
-| 04 | Object Detection with FasterRCNN using DVC Pipelines & DVC Data Versioning, Tensorboard, FastAPI and Postman | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
-| 05 | Cancer Risk Prediction System | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
-| 06 | Telecom Customer Churn Prediction | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
-| 07 | Academic Risk & Engagement Prediction | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
-| 08 | 2-Stage Loan Approval & Valuation | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
-| 09 | Chest Disease Identification (CNN + MLOps) | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
-| 10 | Discarded Material Detection System | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
-| 11 | Thunderstorm Forecasting (MLflow) | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
-| 12 | Drinks Quality Prediction | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
-| 13 | Collaborative Filtering Recommender | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
-| 14 | Social Video Sentiment Intelligence | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
-| 15 | Global Mobility Application Analyzer | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)]() |  |
+| 01 | MLOps Jenkins Shared Library CI/CD | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/MLOPS-Jenkins-Shared-Library-CI-CD-Project.git) |  |
+| 02 | Kubernetes Penetration Testing and Benchmarking with KubeHunter & KubeBench | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Kubernetes-Penetration-Testing-and-Benchmarking-with-KubeHunter-KubeBench.git) |  |
+| 03 | Network Security MLOps System | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Network-Security.git) |  |
+| 04 | Object Detection with FasterRCNN using DVC Pipelines & DVC Data Versioning, Tensorboard, FastAPI and Postman | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Object-Detection-with-FasterRCNN-using-DVC-Pipelines-DVC-Data-Versioning-Tensorboard-FastAPI.git) |  |
+| 05 | Cancer Risk Prediction System | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Predictive-Modeling-for-Cancer-Risk-Assessment-Using-MachineLearning.git) |  |
+| 06 | Telecom Customer Churn Prediction | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Telecom-Customer-Churn-Prediction-using-Machine-Learning.git) |  |
+| 07 | Academic Risk & Engagement Prediction | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Academic-Risk-Engagement-Prediction-System.git) |  |
+| 08 | 2-Stage Loan Approval & Valuation | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/2-Stage-Loan-Approval-Valuation-System.git) |  |
+| 09 | Chest Disease Identification (CNN + MLOps) | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Chest-Disease-Identification.git) |  |
+| 10 | Discarded Material Detection System | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Discarded-Material-Identification-System.git) |  |
+| 11 | Thunderstorm Forecasting (MLflow) | Beginner | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Thunderstorm-Forecasting-with-MLFlow-Tracking.git) |  |
+| 12 | Drinks Quality Prediction | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Drinks-Quality-Prediction-System.git) |  |
+| 13 | Collaborative Filtering Recommender | Intermediate | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Collaborative-Filtering-Recommendation-System.git) |  |
+| 14 | Social Video Sentiment Intelligence | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Social-Video-Audience-Sentiment-Intelligence.git) |  |
+| 15 | Global Mobility Application Analyzer | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Global-Mobility-Application-Analyzer.git) |  |
 
 
 ---
