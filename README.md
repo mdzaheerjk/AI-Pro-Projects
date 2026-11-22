@@ -145,9 +145,12 @@
 <tr><td>RAG-Based Document Search App</td><td align="center"><a href="https://github.com/mdzaheerjk/RAG-Based-Document-Search-Application.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
 <tr><td>Enterprise Advanced RAG — Hybrid Search, ReRanking, HyDE, CRAG, Self-RAG, Text2SQL, Caching & Guardrails in LangGraph</td><td align="center"><a href="https://github.com/mdzaheerjk/Enterprise-RAG-with-Hybrid-Search-ReRanking-HyDE-CRAG-Self-RAG-Text2SQL-Guardrails.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
 <tr><td>Air India RAG Chatbot Development</td><td align="center"><a href="https://github.com/mdzaheerjk/Air-India-RAG-Chatbot-Development.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
+
+<tr><td>Build and Deploy an Enterprise RAG</td><td align="center"><a href="https://github.com/mdzaheerjk/Gen-AI-Powered-Clothing-Store-with-Pydantic-AI.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a></td><td align="center">—</td></tr>
 </table>
 
 ---
+
 
 ## ⚡ Agentic AI Projects
 
